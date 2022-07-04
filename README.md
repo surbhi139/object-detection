@@ -10,5 +10,6 @@ for object detection, we are using the bounding boxes which have the shape of a 
 
 
 for the dataset, we are using the coco dataset 2020 which was created for object detection. this dataset has 80 objects which were detected by the camera.
+you can download the data through **https://cocodataset.org/#home**
 
 for building the model we are using the DNA detection model for detecting the object.
